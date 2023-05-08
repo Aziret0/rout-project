@@ -2,7 +2,7 @@
   "name": "rout",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Aziret0/rout-project",
+  "homepage": "https://Aziret0.github.io/rout-project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
